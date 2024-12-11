@@ -1,15 +1,16 @@
 # Hi there 👋, I'm Rufidatul Radium
 
-I’m a **Software Engineering Student** with a passion for **Full Stack Development** and **Artificial Intelligence**. With hands-on experience in multiple development environments and frameworks, I enjoy building innovative solutions to real-world problems. Currently, I’m specialized in **MERN stack** and **Machine Learning** and have worked on a variety of projects, ranging from web applications to AI-based systems.
+I’m a **Software Engineering Student** with a passion for **Full Stack Development** and **Artificial Intelligence**. With hands-on experience in multiple development environments and frameworks, I enjoy building solutions to real-world problems. Currently, I’m specialized in **MERN stack** and **Machine Learning** and have worked on a variety of projects, ranging from web applications to AI-based systems.
 
 ## 👩‍💻 About Me:
 - 🌱 I’m currently learning **Large Language Models** for providing accurate solution of questions from **Long Context Documents**.
 - 👨‍💻 I’m working on **OptiHire** – an AI-powered resume ranking system for companies.
 - 🔭 I’m also developing **SmartTab Q&A Assistant**, a Chrome extension that leverages LLMs to enhance browsing experiences by providing real-time answers and intelligent recommendations based on opened tabs.
+- 🕹️I’m currently building **Scene Crafter**, a Godot Engine plugin integrated with Large Language Models to assist game developers in generating, enhancing, and optimizing game scenes through contextual recommendations and automated feedback loops.
 - 🚀 Some of my notable MERN stack projects:
   - **Ekunjo**: A social platform enabling users to share and monetize content.
   - **Mini-LinkedIn**: A job-oriented social networking service.
-- ⚡ Fun fact: I love participating in hackathons and have won multiple awards in competitive programming and science festivals.
+- ⚡ Fun fact: I love participating in hackathons and solving problems.
 
 ## 🛠️ Skills and Tools:
 
