@@ -1,46 +1,69 @@
-# Hi there 👋, I'm Rufidatul Radium
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=29AB87&center=true&width=500&lines=Hi%2C+I'm+Rufidatul+Radium!;Backend+Engineer;Building+Scalable+Web+%26+AI+Solution" alt="Typing SVG">
+</p>
 
-I’m a **Software Engineering Student** with a passion for **Full Stack Development** and **Artificial Intelligence**. With hands-on experience in multiple development environments and frameworks, I enjoy building solutions to real-world problems. Currently, I’m specialized in **MERN stack** and **Machine Learning** and have worked on a variety of projects, ranging from web applications to AI-based systems.
+<p align="center">
+  <a href="https://github.com/Rufidatul726"><img src="https://img.shields.io/github/followers/Rufidatul726?label=Follow&style=social"></a>
+  <a href="https://linkedin.com/in/rufidatul-radium"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rufidatul.radium@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
-## 👩‍💻 About Me:
-- 🌱 I’m currently learning **Large Language Models** for providing accurate solution of questions from **Long Context Documents**.
-- 👨‍💻 I’m working on **OptiHire** – an AI-powered resume ranking system for companies.
-- 🔭 I’m also developing **SmartTab Q&A Assistant**, a Chrome extension that leverages LLMs to enhance browsing experiences by providing real-time answers and intelligent recommendations based on opened tabs.
-- 🕹️I’m currently building **Scene Crafter**, a Godot Engine plugin integrated with Large Language Models to assist game developers in generating, enhancing, and optimizing game scenes through contextual recommendations and automated feedback loops.
-- 🚀 Some of my notable MERN stack projects:
-  - **Ekunjo**: A social platform enabling users to share and monetize content.
-  - **Mini-LinkedIn**: A job-oriented social networking service.
-- ⚡ Fun fact: I love participating in hackathons and solving problems.
+---
 
-## 🛠️ Skills and Tools:
+## 🔹 About Me
+I’m a **Backend Engineer and AI Enthusiast** building scalable systems, automation pipelines, and intelligent web platforms.  
+I specialize in **Python, FastAPI, Firebase, Next.js**, and **AI/ML-powered applications**.  
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSI1MHB4IiBoZWlnaHQ9IjUwcHgiPjxwYXRoIGQ9Ik0gMjguMTg3NSAwIEMgMzAuOTM3NSA2LjM2MzI4MSAxOC4zMjgxMjUgMTAuMjkyOTY5IDE3LjE1NjI1IDE1LjU5Mzc1IEMgMTYuMDgyMDMxIDIwLjQ2NDg0NCAyNC42NDg0MzggMjYuMTI1IDI0LjY1NjI1IDI2LjEyNSBDIDIzLjM1NTQ2OSAyNC4xMDkzNzUgMjIuMzk4NDM4IDIyLjQ0OTIxOSAyMS4wOTM3NSAxOS4zMTI1IEMgMTguODg2NzE5IDE0LjAwNzgxMyAzNC41MzUxNTYgOS4yMDcwMzEgMjguMTg3NSAwIFogTSAzNi41NjI1IDguODEyNSBDIDM2LjU2MjUgOC44MTI1IDI1LjUgOS41MjM0MzggMjQuOTM3NSAxNi41OTM3NSBDIDI0LjY4NzUgMTkuNzQyMTg4IDI3Ljg0NzY1NiAyMS4zOTg0MzggMjcuOTM3NSAyMy42ODc1IEMgMjguMDExNzE5IDI1LjU1ODU5NCAyNi4wNjI1IDI3LjEyNSAyNi4wNjI1IDI3LjEyNSBDIDI2LjA2MjUgMjcuMTI1IDI5LjYwOTM3NSAyNi40NDkyMTkgMzAuNzE4NzUgMjMuNTkzNzUgQyAzMS45NDkyMTkgMjAuNDI1NzgxIDI4LjMyMDMxMyAxOC4yODUxNTYgMjguNjg3NSAxNS43NSBDIDI5LjAzOTA2MyAxMy4zMjQyMTkgMzYuNTYyNSA4LjgxMjUgMzYuNTYyNSA4LjgxMjUgWiBNIDE5LjE4NzUgMjUuMTU2MjUgQyAxOS4xODc1IDI1LjE1NjI1IDkuMDYyNSAyNS4wMTE3MTkgOS4wNjI1IDI3Ljg3NSBDIDkuMDYyNSAzMC44NjcxODggMjIuMzE2NDA2IDMxLjA4OTg0NCAzMS43ODEyNSAyOS4yNSBDIDMxLjc4MTI1IDI5LjI1IDM0LjI5Njg3NSAyNy41MTk1MzEgMzQuOTY4NzUgMjYuODc1IEMgMjguNzY1NjI1IDI4LjE0MDYyNSAxNC42MjUgMjguMjgxMjUgMTQuNjI1IDI3LjE4NzUgQyAxNC42MjUgMjYuMTc5Njg4IDE5LjE4NzUgMjUuMTU2MjUgMTkuMTg3NSAyNS4xNTYyNSBaIE0gMzguNjU2MjUgMjUuMTU2MjUgQyAzNy42NjQwNjMgMjUuMjM0Mzc1IDM2LjU5Mzc1IDI1LjYxNzE4OCAzNS42MjUgMjYuMzEyNSBDIDM3LjkwNjI1IDI1LjgyMDMxMyAzOS44NDM3NSAyNy4yMzQzNzUgMzkuODQzNzUgMjguODQzNzUgQyAzOS44NDM3NSAzMi40Njg3NSAzNC41OTM3NSAzNS44NzUgMzQuNTkzNzUgMzUuODc1IEMgMzQuNTkzNzUgMzUuODc1IDQyLjcxODc1IDM0Ljk1MzEyNSA0Mi43MTg3NSAyOSBDIDQyLjcxODc1IDI2LjI5Njg3NSA0MC44Mzk4NDQgMjQuOTg0Mzc1IDM4LjY1NjI1IDI1LjE1NjI1IFogTSAxNi43NSAzMC43MTg3NSBDIDE1LjE5NTMxMyAzMC43MTg3NSAxMi44NzUgMzEuOTM3NSAxMi44NzUgMzMuMDkzNzUgQyAxMi44NzUgMzUuNDE3OTY5IDI0LjU2MjUgMzcuMjA3MDMxIDMzLjIxODc1IDMzLjgxMjUgTCAzMC4yMTg3NSAzMS45Njg3NSBDIDI0LjM1MTU2MyAzMy44NDc2NTYgMTMuNTQ2ODc1IDMzLjIzNDM3NSAxNi43NSAzMC43MTg3NSBaIE0gMTguMTg3NSAzNS45Mzc1IEMgMTYuMDU4NTk0IDM1LjkzNzUgMTQuNjU2MjUgMzcuMjIyNjU2IDE0LjY1NjI1IDM4LjE4NzUgQyAxNC42NTYyNSA0MS4xNzE4NzUgMjcuMzcxMDk0IDQxLjQ3MjY1NiAzMi40MDYyNSAzOC40Mzc1IEwgMjkuMjE4NzUgMzYuNDA2MjUgQyAyNS40NTcwMzEgMzcuOTk2MDk0IDE2LjAxNTYyNSAzOC4yMzgyODEgMTguMTg3NSAzNS45Mzc1IFogTSAxMS4wOTM3NSAzOC42MjUgQyA3LjYyNSAzOC41NTQ2ODggNS4zNzUgNDAuMTEzMjgxIDUuMzc1IDQxLjQwNjI1IEMgNS4zNzUgNDguMjgxMjUgNDAuODc1IDQ3Ljk2NDg0NCA0MC44NzUgNDAuOTM3NSBDIDQwLjg3NSAzOS43Njk1MzEgMzkuNTI3MzQ0IDM5LjIwMzEyNSAzOS4wMzEyNSAzOC45Mzc1IEMgNDEuOTMzNTk0IDQ1LjY1NjI1IDkuOTY4NzUgNDUuMTIxMDk0IDkuOTY4NzUgNDEuMTU2MjUgQyA5Ljk2ODc1IDQwLjI1MzkwNiAxMi4zMjAzMTMgMzkuMzkwNjI1IDE0LjUgMzkuODEyNSBMIDEyLjY1NjI1IDM4Ljc1IEMgMTIuMTEzMjgxIDM4LjY2Nzk2OSAxMS41ODk4NDQgMzguNjM2NzE5IDExLjA5Mzc1IDM4LjYyNSBaIE0gNDQuNjI1IDQzLjI1IEMgMzkuMjI2NTYzIDQ4LjM2NzE4OCAyNS41NDY4NzUgNTAuMjIyNjU2IDExLjc4MTI1IDQ3LjA2MjUgQyAyNS41NDI5NjkgNTIuNjk1MzEzIDQ0LjU1ODU5NCA0OS41MzUxNTYgNDQuNjI1IDQzLjI1IFoiLz48L3N2Zz4=&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Currently working on:**  
+- **OptiHire** – AI-driven resume ranking system for Bangladesh  
+- **WebInsight** – Chrome extension for real-time web summarization  
+- **Ekunjo** – Urban farming platform with plant disease detection, growth tracking, and real-time chat  
 
-### Frameworks and Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGQ9Ik0gMjQgNCBDIDEyLjk3MiA0IDQgMTIuOTcyIDQgMjQgQyA0IDM1LjAyOCAxMi45NzIgNDQgMjQgNDQgQyAzNS4wMjggNDQgNDQgMzUuMDI4IDQ0IDI0IEMgNDQgMTIuOTcyIDM1LjAyOCA0IDI0IDQgeiBNIDI0IDcgQyAzMy4zNzQgNyA0MSAxNC42MjYgNDEgMjQgQyA0MSAyOS44NTIgMzguMDI3NjcyIDM1LjAyMDA3OCAzMy41MTM2NzIgMzguMDgwMDc4IEwgMTkuNzQyMTg4IDE3LjY2MDE1NiBDIDE5LjM3NTE4NyAxNy4xMTMxNTYgMTguNjg3NTQ3IDE2Ljg3NDQ1MyAxOC4wNjA1NDcgMTcuMDY0NDUzIEMgMTcuNDMwNTQ3IDE3LjI1ODQ1MyAxNyAxNy44NDEgMTcgMTguNSBMIDE3IDMxLjUgQyAxNyAzMi4zMjggMTcuNjcyIDMzIDE4LjUgMzMgQyAxOS4zMjggMzMgMjAgMzIuMzI4IDIwIDMxLjUgTCAyMCAyMy40MDYyNSBMIDMwLjg3Njk1MyAzOS41MzMyMDMgQyAyOC43NzA5NTMgNDAuNDY4MjAzIDI2LjQ0OCA0MSAyNCA0MSBDIDE0LjYyNiA0MSA3IDMzLjM3NCA3IDI0IEMgNyAxNC42MjYgMTQuNjI2IDcgMjQgNyB6IE0gMjkuNSAxNSBDIDI4LjY3MiAxNSAyOCAxNS42NzIgMjggMTYuNSBMIDI4IDI0Ljk4NjMyOCBMIDMxIDI5LjI4OTA2MiBMIDMxIDE2LjUgQyAzMSAxNS42NzIgMzAuMzI4IDE1IDI5LjUgMTUgeiIvPjwvc3ZnPg==&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**Competitive coding & problem solving:**  
+[![Codeforces](https://img.shields.io/badge/Codeforces-aurchey726-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aurchey726)
+[![LeetCode](https://img.shields.io/badge/LeetCode-bsse1226-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/bsse1226)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-### Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🔹 Skills
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+</p>
 
-## 📈 GitHub Stats
-![Rufidatul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rufidatul726&show_icons=true&&rank_icon=github)
+---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rufidatul726&show_icons=true&&rank_icon=github)
+## 🔹 Top Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| **OptiHire** | AI-powered recruitment system for Bangladesh with fair resume ranking | Python, FastAPI, BERT, ML |
+| **WebInsight** | Chrome extension for real-time summarization and Q&A | JS, Chrome API, AI |
+| **Ekunjo** | Urban farming platform with AI-based disease detection & chat | Next.js, Firebase, FastAPI |
+| **Kitchen Buddy** | Recipe management with AI chatbot & ingredient-based recommendations | FastAPI, Python, ML |
+| **Smart Park BD** | Prototype IoT-enabled smart park with dashboards | React, TailwindCSS, APIs |
+| **Playwright Scraper** | High-speed scraper for Google Maps business data | Python, Playwright, aiohttp |
 
-## 🔗 Connect with Me
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufidatul-radium/) [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rufidatul.772) [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://rufidatul726.github.io/)
+---
 
+## 🔹 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rufidatul726&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rufidatul726&theme=radical" />
+</p>
+
+---
+
+## 🔹 Visitors
+![Visitor Count](https://profile-counter.glitch.me/Rufidatul726/count.svg)
+
+---
+
+<p align="center">
+  🚀 Let's build something amazing together!
+</p>
