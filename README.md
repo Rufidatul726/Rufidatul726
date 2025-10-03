@@ -60,7 +60,7 @@ I specialize in **Python, FastAPI, Firebase, Next.js**, and **AI/ML-powered appl
 ---
 
 ## 🔹 Visitors
-![Visitor Count](https://profile-counter.glitch.me/Rufidatul726/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rufidatul726)
 
 ---
 
