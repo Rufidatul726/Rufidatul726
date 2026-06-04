@@ -54,7 +54,7 @@ I specialize in **Python, FastAPI, Firebase, Next.js**, and **AI/ML-powered appl
 ## 🔹 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rufidatul726&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rufidatul726&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Rufidatul726&theme=radical" />
 </p>
 
 ---
